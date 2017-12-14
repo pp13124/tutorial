@@ -1,5 +1,4 @@
 # tutorial
 Git
 練習
-
-色々練習中
+pullrequest練習中
